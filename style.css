@@ -72,13 +72,10 @@
     display:none;
 }
 #hero{
-    background-image: url("/img/hero4.png");
+    background-image: url("img/hero4.png");
     height: 90vh;
     width: 100%;
-    /* background-size:contain; */
     background-size: cover;
-    /* background-repeat: no-repeat; */
-    /* background-position: right; */
     background-position: top 25% right 0;
     padding: 0 50px;
     display: flex;
